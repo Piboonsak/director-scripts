@@ -6,3 +6,4 @@
 
 ## [STEP 2.Setting up Azure Resources](https://www.cloudera.com/documentation/director/latest/topics/director_get_started_azure_set_up_resources.html#concept_a5x_zmw_hw)
 
+## [STEP 3.Setting Up Dynamic DNS on Azure](https://www.cloudera.com/documentation/director/latest/topics/director_get_started_azure_ddns.html#setting_up_ddns)
