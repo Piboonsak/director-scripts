@@ -2,7 +2,8 @@
 
 ## Contributing Code
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md).<br>
+See [InstallAltus](https://github.com/Piboonsak/director-scripts/blob/master/MyAltus.md).
 
 ## Overview
 
